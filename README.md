@@ -1,0 +1,1 @@
+Internal Python service for normalizing lab results from multiple source systems into a canonical schema, exposed over an HTTP API.
